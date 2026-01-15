@@ -1,8 +1,8 @@
-#Used Technology:
-####Tensorflow 
-####Keras 
-####matplotlib 
-####Kaggle 
+# Used Technology:
+#### Tensorflow 
+#### Keras 
+#### matplotlib 
+#### Kaggle 
 
 # Custom Data Setup: 
 #### Employed 1000 features
